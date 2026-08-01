@@ -1,0 +1,4 @@
+#!/bin/bash
+name="fillette"
+echo "$name"
+echo "iam a student of gs indangaburezi> my name is fillette"

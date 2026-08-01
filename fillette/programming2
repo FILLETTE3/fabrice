@@ -1,0 +1,4 @@
+#!/bin/bash
+NAME="FILLETTE" 
+echo "$NAME"
+echo "world programming"

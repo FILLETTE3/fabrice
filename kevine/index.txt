@@ -1,0 +1,7 @@
+#!/bin/bash
+#MY FIRST APP
+echo "HELLO WORLD"
+name="fillette"
+age="17"
+echo "$name"
+echo "$age"
